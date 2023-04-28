@@ -36,7 +36,7 @@ jQuery
 C#
 
 - <h1>Languge and Tools</h1>
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,scss,C#,js,html,css,C)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,C#,js,html,css,C)](https://skillicons.dev)
 
 💻 Operating Systems: 
 Windows                 

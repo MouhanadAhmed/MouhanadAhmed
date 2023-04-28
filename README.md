@@ -17,11 +17,11 @@
 
 
 
-💬 Languages: 
+💬 Languages and Tools : 
 
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,sass,bootstrap,js,html,css,figma,c,cs"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,regex,sass,bootstrap,js,ts,html,css,figma,postman,c,cs,github,materialui,styledcomponents,tailwind,visualstudio,vscode,vite"/>
   </a>
 
 

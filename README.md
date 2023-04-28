@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mouhanad Ahmed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-[![Linkedin: nourhansaeed](https://img.shields.io/badge/-nourhansaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhanad-ahmed-2b70a318b)](https://www.linkedin.com/in/mouhanad-ahmed-2b70a318b)
+[![Linkedin: MouhanadAhmed](https://img.shields.io/badge/-MouhandAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhanad-ahmed-2b70a318b)](https://www.linkedin.com/in/mouhanad-ahmed-2b70a318b)
 <!--
 
 
@@ -35,7 +35,8 @@ TypeScript
 jQuery                   
 C#
 
-
+- <h1>Languge and Tools</h1>
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,scss,C#,js,html,css,C)](https://skillicons.dev)
 
 💻 Operating Systems: 
 Windows                 

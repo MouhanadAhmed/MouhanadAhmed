@@ -2,8 +2,8 @@
 
 
 
-- 👀 I’m interested in Front End development
-- 🌱 I’m currently learning React.js....
+- 👀 I’m interested in full stack MERN Web development
+- 🌱 I’m currently learning next.js....
 - 💬Ask me about Frontend / Web Development 
 - 📫 How to reach me https://www.linkedin.com/in/mouhanad-ahmed-2b70a318b
 - 💬 Email: mouhanad.ahmed2@gmail.com
@@ -21,7 +21,7 @@
 
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,regex,sass,bootstrap,js,ts,html,css,figma,postman,c,cs,github,materialui,styledcomponents,tailwind,visualstudio,vscode,vite"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,regex,sass,bootstrap,js,ts,html,css,postman,c,cs,github,gitlab,materialui,styledcomponents,tailwind,jest,jquery,nestjs,nextjs,nodejs,mongodb,express,graphql,docker,visualstudio,vscode,vite,npm,vercel,figma,ubuntu,postgres,firebase"/>
   </a>
 
 
